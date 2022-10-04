@@ -7,7 +7,7 @@ Date of Birth:   6th of October 1996
 Nationality:     Egypt
 Marital Status:  Completed
 Location:        Faysal, Suez, Egypt
-Email:           eslamabdallah301@gmail.com
+Email:           beromara128@gmail.com
 phone number:    +201026236600
 ```
 ## Education <img style="width:5%" alt="aboueMe" src="assets/Education.svg"> 
