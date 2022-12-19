@@ -18,7 +18,18 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 
 ## Professional Experience 🚀
 
-### 1. Full Stack  @ [Iksib]
+### 1. API  [Iksib] for [e-commerce]
+> A multi-tenancy [Store] website, Users can register to make thier own  sub-domain,
+> Making/Providing dashboard for them to have full control of the website.
+
+1. Handling api structure and database design
+2. Making RESTful API for the website
+
+
+**Technologies-Packages used** 
+    - [Vuejs](https://vuejs.org/)
+
+### 2. Full Stack  @ [Iksib]
 > a multi-tenancy [Store] website, Users can register to make thier own  sub-domain,
 > Making/Providing dashboard for them to have full control of the website.
 
@@ -29,7 +40,7 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
     - [Hesabe Payment](https://www.hesabe.com/)
 
 
-### 2. Backend  [Freelancing] - [Topart](https://topart.services/)
+### 3. Backend  [Freelancing] - [Topart](https://topart.services/)
 > A site for car parts with a chat and control panel for sellers.
 
 1. Edit Database
@@ -45,7 +56,7 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
     - [chatify](https://github.com/munafio/chatify)
 
 
-### 3. Backend  [Test] for [o-porjects](https://www.o-projects.org/)
+### 4. Backend  [Test] for [o-porjects](https://www.o-projects.org/)
 > Making restaurant reservation APIs.
 
 1. Making ERM 
@@ -53,7 +64,7 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 3. Writing API documentation
 
 
-### 4. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)
+### 5. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)
 > A site about movies and series news, Using TMDB API
 
 **Technologies-Packages used** 
@@ -61,7 +72,7 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
     - [Livewire](https://laravel-livewire.com/)
     - [alpinejs](https://alpinejs.dev/)
 
-### 5. Full Stack  [Training] for [AlaSalaty](https://www.salah.hassaneida.com/ranking)
+### 6. Full Stack  [Training] for [AlaSalaty](https://www.salah.hassaneida.com/ranking)
 > Creating website to track prayers and users gaining points for every pray they do,
 > with leaderboard for all users with thier level and points
 
@@ -69,11 +80,12 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
     - [laravel](https://laravel.com/)
     - [Livewire](https://laravel-livewire.com/)
 
-### 6. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
+### 7. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
 > SPA website for tracking covid Cases and deaths 
 
 **Technologies-Packages used** 
     - [Vuejs](https://vuejs.org/)
+
 
 
 ## Technical skills 📚
@@ -87,6 +99,8 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 - Github
 - RESTful API
 - Database Design
+- multi-tenancy
+- ERM
 
 <br>
 
