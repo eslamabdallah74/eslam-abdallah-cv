@@ -8,7 +8,7 @@ Nationality:     Egypt
 Marital Status:  Completed
 Location:        Faysal, Suez, Egypt
 Email:           beromara128@gmail.com
-phone number:    +201026236600
+phone number:    +201026236633
 ```
 ## Education <img style="width:5%" alt="aboueMe" src="assets/Education.svg"> 
 
@@ -26,8 +26,6 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 2. Making RESTful API for the website
 
 
-**Technologies-Packages used** 
-    - [Vuejs](https://vuejs.org/)
 
 ### 2. Full Stack  @ [Iksib]
 > a multi-tenancy [Store] website, Users can register to make thier own  sub-domain,
