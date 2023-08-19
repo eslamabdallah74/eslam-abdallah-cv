@@ -84,8 +84,6 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 **Technologies-Packages used** 
     - [Vuejs](https://vuejs.org/)
 
-
-
 ## Technical skills 📚
 - laravel
 - Livewire
@@ -100,6 +98,25 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 - multi-tenancy
 - ERM
 
+### 8. Backend [Api-Restful] for [ASAGTC](https://kinsta.com/agency-directory/asagtc/)
+> Creating a SaaS project centered around a multi-tenant architecture, reminiscent of platforms like Shopify. This entailed crafting individual websites and subdomains for each seller, with data segregation achieved through both a single and multi-database approach. To facilitate this, I effectively utilized the Tenancy for Laravel package. The project was designed as a RESTful API, harmonizing with the React-based front-end team. Notably, the comprehensive website encompassed a spectrum of features, including intricate settings, geofencing capabilities, cart management, tax computation, and promotional functionalities. Moreover, the implementation featured sophisticated product recommendations and other quintessential elements of an e-commerce ecosystem
+
+## Technical skills 📚
+- laravel
+- Sanctum
+- tenancyforlaravel Package
+
+### 9. Fullstack for [مؤسسة ضوء نقطي للاتصالات وتقنيه المعلومات](https://dwam.app/)
+> Adding Student absence system
+> Adding two new roles in the system Undersecretary for Student Affairs and Undersecretary for Teachers Affairs
+> Design fixes
+> Cleaning code
+
+## Technical skills 📚
+- Laravel
+- Vue2
+- Tailwind
+  
 <br>
 
 ## Languages 💬
