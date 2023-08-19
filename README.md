@@ -116,6 +116,14 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 - Laravel
 - Vue2
 - Tailwind
+
+### 10. Fullstack for [ASAGTC](https://kinsta.com/agency-directory/asagtc/)
+> getzodo is an innovative online platform that empowers users to create and manage surveys effortlessly. Designed with user convenience in mind, getzodo enables individuals and organizations to register, create workspaces, and design multiple surveys within those workspaces for streamlined organization.
+
+## Technical skills 📚
+- Laravel
+- livwire
+- Tailwind
   
 <br>
 
