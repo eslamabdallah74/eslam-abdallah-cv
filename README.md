@@ -18,18 +18,18 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 
 ## Professional Experience 🚀
 
-### 1. API  [Iksib] for [e-commerce]
-> A multi-tenancy [Store] website, Users can register to make thier own  sub-domain,
-> Making/Providing dashboard for them to have full control of the website.
+### 1. Iksib [API] [ASAGTC](https://kinsta.com/agency-directory/asagtc/)
+> A multi-tenancy [Store] website, Users can register to make their own  sub-domain,
+> Making/Providing a dashboard for them to have full control of the website.
 
-1. Handling api structure and database design
+1. Handling API structure and database design
 2. Making RESTful API for the website
 
 
 
 ### 2. Full Stack  @ [Iksib]
-> a multi-tenancy [Store] website, Users can register to make thier own  sub-domain,
-> Making/Providing dashboard for them to have full control of the website.
+> a multi-tenancy [Store] website, Users can register to make their own  sub-domain,
+> Making/Providing a dashboard for them to have full control of the website.
 
 **Technologies-Packages used** 
     - [laravel](https://laravel.com/)
@@ -38,7 +38,7 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
     - [Hesabe Payment](https://www.hesabe.com/)
 
 
-### 3. Backend  [Freelancing] - [Topart](https://topart.services/)
+### 3. Fullstack  [Freelancing] - [Topart](https://topart.services/)
 > A site for car parts with a chat and control panel for sellers.
 
 1. Edit Database
@@ -106,7 +106,7 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 - Sanctum
 - tenancyforlaravel Package
 
-### 9. Fullstack for [مؤسسة ضوء نقطي للاتصالات وتقنيه المعلومات](https://dwam.app/)
+### 9. Fullstack for [ibright](https://dwam.app/)
 > Adding Student absence system
 > Adding two new roles in the system Undersecretary for Student Affairs and Undersecretary for Teachers Affairs
 > Design fixes
