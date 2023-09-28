@@ -12,9 +12,9 @@ phone number:    +201026236633
 ```
 ## Education <img style="width:5%" alt="aboueMe" src="assets/Education.svg"> 
 
-**Bachelor’s Degree in Bachelor of Information Systems and administrative**
+**Bachelor’s Degree in Information Systems and Administration Institute**
 <br>
-From faculty of Suez Institute for Management Information Systems, Suez, Overall Grade: Very Good
+Institute for Management Information Systems, Suez, Overall Grade: Very Good
 
 ## Professional Experience 🚀
 
@@ -79,7 +79,7 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
     - [Livewire](https://laravel-livewire.com/)
 
 ## 7. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
-> SPA website for tracking covid Cases and deaths 
+> SPA website for tracking COVID cases and deaths 
 
 **Technologies-Packages used** 
     - [laravel](https://laravel.com/)
@@ -111,6 +111,18 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
     - [laravel](https://laravel.com/)
     - [livewire](https://laravel-livewire.com/)
     - [tailwindCss](https://tailwindui.com/)  
+<br>
+
+## Languages 💬
+
+**Arabic**   : Native 
+**Engllish** : Very Good
+
+## 11. Freelance for [Granit Company]
+> The project I have developed is a robust RESTful API tailored for a granite company, providing comprehensive tools for efficient management of their workforce dedicated to serving clients. This API streamlines the entire job process, from initial client engagement to collecting payments, calculating expenses, and tracking income, working hours, and shifts.
+
+**Technologies-Packages used** 
+    - [laravel](https://laravel.com/)
 <br>
 
 ## Languages 💬
