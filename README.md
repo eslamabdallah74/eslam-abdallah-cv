@@ -99,14 +99,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
     - [laravel](https://laravel.com/)
     - [Vuejs](https://vuejs.org/)
     
-<br>
-
-## Languages 💬
-
-**Arabic**   : Native 
-**Engllish** : Very Good
-
-## 11. Freelance for [Granit Company]
+## 10. Freelance for [Granit Company]
 > The project I have developed is a robust RESTful API tailored for a granite company, providing comprehensive tools for efficient management of their workforce dedicated to serving clients. This API streamlines the entire job process, from initial client engagement to collecting payments, calculating expenses, and tracking income, working hours, and shifts.
 
 **Technologies-Packages used** 
@@ -117,6 +110,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
 
 **Arabic**   : Native 
 **Engllish** : Very Good
+
 
 ## Online Presence 🔗 
 
