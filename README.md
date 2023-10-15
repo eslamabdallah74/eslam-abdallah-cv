@@ -26,7 +26,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
 2. Making RESTful API for the website
 
 
-## 2. Fullstack  [Freelancing] - [Topart](https://topart.services/)
+## 2. Fullstack  [Freelancing] - [Topart](https://topart.agency/)
 > A site for car parts with a chat and control panel for sellers.
 
 1. Edit Database
@@ -60,7 +60,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
     - [laravel](https://laravel.com/)
     - [vue2](https://v2.vuejs.org/)
 
-## 5. Fullstack for [ASAGTC](https://kinsta.com/agency-directory/asagtc/)
+## 5. Fullstack for [ASAGTC](https://app.getzodo.com/register)
 > Getzodo is an innovative online platform that empowers users to create and manage surveys effortlessly. Designed with user convenience in mind, getzodo enables individuals and organizations to register, create workspaces, and design multiple surveys within those workspaces for streamlined organization.
 
 **Technologies-Packages used** 
