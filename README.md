@@ -19,8 +19,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
 ## Professional Experience 🚀
 
 ## 1. Full Stack Developer at [GTE](https://www.linkedin.com/company/generaltelecom/mycompany/)
-> Working as a Full Stack Developer, contributing expertise in Laravel for backend development and Vue.js for frontend implementation. Responsibilities include debugging and redesigning code components, as well as spearheading the development of new
-> features to enhance product functionality.
+> Working as a Full Stack Developer, contributing expertise in Laravel for backend development and Vue.js for frontend implementation. Responsibilities include debugging and redesigning code components.
 
 1. Implementing Laravel backend solutions for efficient data management and processing.
 2. Utilizing Vue.js to create responsive and user-friendly frontend interfaces.
