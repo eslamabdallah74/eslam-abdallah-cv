@@ -25,8 +25,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
 1. Implementing Laravel backend solutions for efficient data management and processing.
 2. Utilizing Vue.js to create responsive and user-friendly frontend interfaces.
 3. Collaborating with cross-functional teams to troubleshoot issues and optimize code performance.
-4. Leading the redesign efforts for existing code components to improve scalability and maintainability.
-5. Spearheading the development of innovative features to enhance the overall user experience.
+4. Collaborating the redesign for existing code components to improve scalability and maintainability.
    
 **Technologies-Packages used** 
     - [laravel](https://laravel.com/)
