@@ -18,7 +18,22 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
 
 ## Professional Experience 🚀
 
-## 1. Iksib [API] [ASAGTC](https://kinsta.com/agency-directory/asagtc/)
+## 1. Full Stack Developer at [GTE](https://www.linkedin.com/company/generaltelecom/mycompany/)
+> Working as a Full Stack Developer, contributing expertise in Laravel for backend development and Vue.js for frontend implementation. Responsibilities include debugging and redesigning code components, as well as spearheading the development of new
+> features to enhance product functionality.
+
+1. Implementing Laravel backend solutions for efficient data management and processing.
+2. Utilizing Vue.js to create responsive and user-friendly frontend interfaces.
+3. Collaborating with cross-functional teams to troubleshoot issues and optimize code performance.
+4. Leading the redesign efforts for existing code components to improve scalability and maintainability.
+5. Spearheading the development of innovative features to enhance the overall user experience.
+   
+**Technologies-Packages used** 
+    - [laravel](https://laravel.com/)
+    - [vuejs](https://v2.vuejs.org/)
+
+
+## 2. Iksib [API] [ASAGTC](https://kinsta.com/agency-directory/asagtc/)
 > A multi-tenancy [Store] website, Users can register to make their own  sub-domain,
 > Making/Providing a dashboard for them to have full control of the website.
 
@@ -26,7 +41,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
 2. Making RESTful API for the website
 
 
-## 2. Fullstack  [Freelancing] - [Topart](https://topart.agency/)
+## 3. Fullstack  [Freelancing] - [Topart](https://topart.agency/)
 > A site for car parts with a chat and control panel for sellers.
 
 1. Edit Database
@@ -42,7 +57,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
     - [chatify](https://github.com/munafio/chatify)
 
     
-## 3. Backend [Api-Restful] for [ASAGTC](https://kinsta.com/agency-directory/asagtc/)
+## 4. Backend [Api-Restful] for [ASAGTC](https://kinsta.com/agency-directory/asagtc/)
 > Creating a SaaS project centered around a multi-tenant architecture, reminiscent of platforms like Shopify. This entailed crafting individual websites and subdomains for each seller, with data segregation achieved through both a single and multi-database approach. To facilitate this, I effectively utilized the Tenancy for Laravel package. The project was designed as a RESTful API, harmonizing with the React-based front-end team. Notably, the comprehensive website encompassed a spectrum of features, including intricate settings, geofencing capabilities, cart management, tax computation, and promotional functionalities. Moreover, the implementation featured sophisticated product recommendations and other quintessential elements of an e-commerce ecosystem
 
 **Technologies-Packages used** 
@@ -50,7 +65,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
     - [Sanctum](https://laravel.com/docs/10.x/sanctum)
     - [tenancyforlaravel](https://tenancyforlaravel.com/saas-boilerplate/)
 
-## 4. Fullstack for [ibright](https://dwam.app/)
+## 5. Fullstack for [ibright](https://dwam.app/)
 > Adding Student absence system
 > Adding two new roles in the system Undersecretary for Student Affairs and Undersecretary for Teachers Affairs
 > Design fixes
@@ -60,7 +75,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
     - [laravel](https://laravel.com/)
     - [vue2](https://v2.vuejs.org/)
 
-## 5. Fullstack for [ASAGTC](https://app.getzodo.com/register)
+## 6. Fullstack for [ASAGTC](https://app.getzodo.com/register)
 > Getzodo is an innovative online platform that empowers users to create and manage surveys effortlessly. Designed with user convenience in mind, getzodo enables individuals and organizations to register, create workspaces, and design multiple surveys within those workspaces for streamlined organization.
 
 **Technologies-Packages used** 
@@ -68,7 +83,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
     - [livewire](https://laravel-livewire.com/)
     - [tailwindCss](https://tailwindui.com/)  
 
-## 6. Backend  [Test] for [o-porjects](https://www.o-projects.org/)
+## 7. Backend  [Test] for [o-porjects](https://www.o-projects.org/)
 > Making restaurant reservation APIs.
 
 1. Making ERM 
@@ -76,7 +91,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
 3. Writing API documentation
 
 
-## 7. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)
+## 8. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)
 > A site about movies and series news, Using TMDB API
 
 **Technologies-Packages used** 
@@ -84,7 +99,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
     - [Livewire](https://laravel-livewire.com/)
     - [alpinejs](https://alpinejs.dev/)
 
-### 8. Full Stack  [Training] for [AlaSalaty](https://www.salah.hassaneida.com/ranking)
+### 9. Full Stack  [Training] for [AlaSalaty](https://www.salah.hassaneida.com/ranking)
 > Creating a website to track prayers and users gaining points for every prayer they do,
 > with a leaderboard for all users with their level and points
 
@@ -92,20 +107,20 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
     - [laravel](https://laravel.com/)
     - [Livewire](https://laravel-livewire.com/)
 
-## 9. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
+## 10. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
 > SPA website for tracking COVID cases and deaths 
 
 **Technologies-Packages used** 
     - [laravel](https://laravel.com/)
     - [Vuejs](https://vuejs.org/)
     
-## 10. Freelance for [Granit Company]
+## 11. Freelance for [Granit Company]
 > The project I have developed is a robust RESTful API tailored for a granite company, providing comprehensive tools for efficient management of their workforce dedicated to serving clients. This API streamlines the entire job process, from initial client engagement to collecting payments, calculating expenses, and tracking income, working hours, and shifts.
 
 **Technologies-Packages used** 
     - [laravel](https://laravel.com/)
 
-## 11. Fullstack for [OnCall](https://oncallwork.com)
+## 12. Fullstack for [OnCall](https://oncallwork.com)
 > E-commerce SaaS built on **filamentphp.com**, It's an admin dashboard where each seller has its' own dashboard scoped by store.
 > It has a branch (Delivery system) where the admin can create a group of cities and give it fees.
 > An API for storefront / mobile app.
