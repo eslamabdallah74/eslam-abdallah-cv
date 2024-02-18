@@ -81,7 +81,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
 3. Writing API documentation
 
 
-## 7. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)
+### 7. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)
 > A site about movies and series news, Using TMDB API
 
 **Technologies-Packages used** 
@@ -97,7 +97,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
     - [laravel](https://laravel.com/)
     - [Livewire](https://laravel-livewire.com/)
 
-## 9. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
+### 9. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
 > SPA website for tracking COVID cases and deaths 
 
 **Technologies-Packages used** 
