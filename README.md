@@ -29,6 +29,7 @@ Institute for Management Information Systems, Suez, Overall Grade: Very Good
 **Technologies-Packages used** 
     - [laravel](https://laravel.com/)
     - [vuejs](https://v2.vuejs.org/)
+    - [Vuex](https://vuex.vuejs.org/)
 
 
 ## 2. Fullstack  [Freelancing] - [Topart](https://topart.agency/)
